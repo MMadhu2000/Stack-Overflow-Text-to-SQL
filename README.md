@@ -33,8 +33,7 @@ Result:
 
 ## Architecture
 
-![Alt Text for Image](Semantic Text Clustering with Phi-2 Embeddings - Visual 1 (1).png)
-
+![Result Demo](Semantic Text Clustering with Phi-2 Embeddings - Visual 1 (1).png)
 ---
 
 ## Database Schema
