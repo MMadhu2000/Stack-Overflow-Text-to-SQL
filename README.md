@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Stack Overflow Text-to-SQL
 
 A local Text-to-SQL application that converts natural language questions into SQL queries against **live Stack Overflow data**. Data is fetched from the official Stack Exchange API and stored in SQLite for repeated use.
@@ -127,4 +127,4 @@ Existing records are updated and new ones are added.
 =======
 # Stack-Overflow-Text-to-SQL
 A local Text-to-SQL application that converts natural language questions into SQL queries against (ive Stack Overflow data).  Data is fetched from the official Stack Exchange API and stored in SQLite for repeated use.
->>>>>>> 995d5b99003d42dc3c47120246a70af18401c71c
+
